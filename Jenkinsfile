@@ -11,7 +11,7 @@ node {
         /* This builds the actual image; synonymous to
          * docker build on the command line */
 
-        app = docker.build("smccloud/deluge-docker")
+        app = docker.build("smccloud/docker-deluge")
     }
     
     stage('Push image') {
