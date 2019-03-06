@@ -8,7 +8,7 @@ Deluge is a full-featured ​BitTorrent client for Linux, OS X, Unix and Windows
 
 **Build notes**
 
-Latest stable Deluge release from Arch Linux repo.
+CentOS 7 based image with Deluge release 1.3.11 from the NUX Dexktop repo.
 
 **Usage**
 ```
